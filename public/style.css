@@ -102,7 +102,21 @@ a.nav-link{
     background: linear-gradient(to right, orange, white);
 }
 
- .foote{
+.foote{
     display: flex;
       flex-direction: column;  
 } 
+
+.logo {
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+
+}
+.logo:hover {
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+
+}
+
